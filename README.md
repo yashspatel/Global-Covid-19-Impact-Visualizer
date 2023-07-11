@@ -9,7 +9,7 @@ This project is an interactive COVID-19 dashboard that provides real-time insigh
 5. Focus on specific country (e.g., India) to gain detailed insights by clicking on the respective country.
 
 # Usage
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+1. Clone the repository: git clone https://github.com/yashspatel/Global-Covid-19-Impact-Visualizer.git
 2. Open the dashboard file using Power BI software.
 3. Interact with the various components and explore the real-time COVID-19 data.
 
