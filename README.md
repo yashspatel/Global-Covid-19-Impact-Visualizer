@@ -1,6 +1,12 @@
 # Global-Covid-19-Impact-Visualizer
+![image](https://github.com/yashspatel/Global-Covid-19-Impact-Visualizer/assets/52578075/e70770bf-95d7-4933-add4-08c9da61e41a)
+*First Page*
 
-![image](https://github.com/yashspatel/Global-Covid-19-Impact-Visualizer/assets/52578075/a73258be-b426-4332-a5c3-0d77d4ac0191)
+![image](https://github.com/yashspatel/Global-Covid-19-Impact-Visualizer/assets/52578075/1f064c8a-7540-48c6-aa7a-085849b7a17d)
+*Second Page*
+
+![image](https://github.com/yashspatel/Global-Covid-19-Impact-Visualizer/assets/52578075/77fdc62a-de39-416c-b399-acf3a042a761)
+*Main Page*
 
 This project is an interactive COVID-19 dashboard that provides real-time insights into the global impact of the COVID-19 pandemic. The dashboard is built using global data and Power BI, offering users an intuitive interface to explore and understand the pandemic's spread.
 
