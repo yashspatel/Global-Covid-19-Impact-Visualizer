@@ -34,3 +34,12 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 # Acknowledgements
 I would like to express our gratitude to the contributors and organizations that provide the COVID-19 data used in this project. Their efforts enable me to provide valuable insights into the global impact of the pandemic.
+
+## *Contact*
+
+To learn more about this project and others:
+
+- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
+- [*GitHub*](https://github.com/yashspatel)
+- [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
